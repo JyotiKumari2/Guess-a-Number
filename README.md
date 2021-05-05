@@ -2,4 +2,5 @@
 Basic game using javascript #Project:001
 <br/>
 Play the game👉 [here](https://jyotikumari2.github.io/Guess-a-Number/) 
+<br/>
 (better view on desktop😊💻)
